@@ -37,9 +37,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-## Features
+## Task Statement
 
-- Create a table layout as shown in above image.
+- Create a table layout.
 - Initially, 10 rows will be shown in the table. You have to implement infinite scroll functionality.
   You have to add rows into the same table. Show featured flag if any college has truthy featured
   value.
@@ -49,4 +49,6 @@ layout.
 ● Sort by collegedunia rating, fees, user review rating , ascending and descending order
 ● Search by college name.
 ● Infinite Scroll
+
+## Hosting Link - https://collegedunia-ucfo.onrender.com/
 
